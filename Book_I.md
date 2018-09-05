@@ -50,7 +50,7 @@
 而且，只要我们能够给出读者一种公认的主流观点，那么接下来他们就会比较信任我们。
 ### 6
 1. 在埃戈斯波塔米之战(*Battle of Aegospotami*, 405 BC)后的第十九年，也就是留克特拉之战(*Battle of Leuctra*, 371 BC 七月六日)以及斯巴达人和波斯王(阿塔薛西斯二世 *Artxerxes II*)达成被称为安塔赛达斯和平条约(*Peace of Antalcidas*)那时的前十六年，
-2. 也就是在伊拉波河(*Battle of the Elleporus*)上击败意大利地区的希腊人之后，老狄奥尼修斯(*Dionysius I of Syracuse*)围攻利基翁(*Siege of Rhegium*, 386 BC)那一年(*也就是田和放逐齐康公，自立为齐国国君那一年*)。这一年，高卢人奇袭罗马，洗劫了罗马城除卡佩托山以外的全部地方。
+2. 也就是在伊拉波河(*Battle of the Elleporus*)上击败意大利地区的希腊人之后，老狄奥尼修斯(*Dionysius I of Syracuse*)围攻利基翁(*Siege of Rhegium*, 386 BC)那一年(*译注：也就是田和放逐齐康公，自立为齐国国君那一年*)。这一年，高卢人奇袭罗马，洗劫了罗马城除卡佩托山以外的全部地方。
 3. 高卢人无意也无力长期占领罗马，但经此劫难，罗马确信在这样的年代里只在自己家里和平发展是不能过上安稳日子的，他们在重新成为国家主人后开始了他们的扩张生涯，和他们一个个邻居接连不断地进行战争。
 4. 在勇气、荣耀的支持和幸运女神的眷顾下通过战争征服了拉丁人以后，罗马又开始北伐伊特鲁利亚人和凯尔特人，东征萨莫奈人。  
 ![img](https://github.com/AndrewImalion/Polybius_Histories/blob/master/ItalyBCIVc.png)  
