@@ -54,4 +54,4 @@
 3. 高卢人无意也无力长期占领罗马，但经此劫难，罗马确信在这样的年代里只在自己家里和平发展是不能过上安稳日子的，他们在重新成为国家主人后开始了他们的扩张生涯，和他们一个个邻居接连不断地进行战争。
 4. 在勇气、荣耀的支持和幸运女神的眷顾下通过战争征服了拉丁人以后，罗马又开始北伐伊特鲁利亚人和凯尔特人，东征萨莫奈人。  
 ![img](https://github.com/AndrewImalion/Polybius_Histories/blob/master/ItalyBCIVc.png)  
-（这张图采用`CC BY-SA 4.0` 协议 [协议详情](https://creativecommons.org/licenses/by-sa/4.0/deed.en)）
+（这张图采用[`CC BY-SA 4.0`协议](https://creativecommons.org/licenses/by-sa/4.0/deed.en)）
