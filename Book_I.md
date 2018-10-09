@@ -53,7 +53,7 @@
 2. 也就是在伊拉波河(*Battle of the Elleporus*)上击败意大利地区的希腊人之后，老狄奥尼修斯(*Dionysius I of Syracuse*)围攻利基翁(*Siege of Rhegium*, 386 BC)那一年(*译注：也就是田和放逐齐康公，自立为齐国国君那一年*)。这一年，高卢人奇袭罗马，洗劫了罗马城除卡佩托山以外的全部地方。
 3. 高卢人无意也无力长期占领罗马，但经此劫难，罗马确信在这样的年代里只在自己家里和平发展是不能过上安稳日子的，他们在重新成为国家主人后开始了他们的扩张生涯，和他们一个个邻居接连不断地进行战争。
 4. 在勇气、荣耀的支持和幸运女神的眷顾下通过战争征服了拉丁人以后，罗马又开始北伐伊特鲁利亚人和凯尔特人，东征萨莫奈人。  
-![img](https://github.com/AndrewImalion/Polybius_Histories/blob/master/ItalyBCIVc.png)  
+![img](https://github.com/AndrewImalion/Polybius_Histories/blob/master/img/ItalyBCIVc.png)  
 （这张图采用[`CC BY-SA 4.0`协议](https://creativecommons.org/licenses/by-sa/4.0/deed.en)）
 5. 后来，塔兰托(*Taranto*)因为怠慢了罗马使节，担心报复性后果，所以请求并且获得了皮洛士(*Pyrrhus of Epirus*)的帮助。是年，高卢人寇希腊，败于德尔斐(*Dephi*)附近，后来他们之中的一部分进入了亚洲。
 6. 然后，罗马人——既征服伊特鲁利亚人、萨莫奈人和意大利地区的凯尔特人后——首次尝试让意大利以外的势力服从于她。而且，胜利似乎最后是属于她的。
