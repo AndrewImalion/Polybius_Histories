@@ -284,3 +284,4 @@
 11. 他们攻占了该城，并且由于长期的围困，他们也顺势拿下了迈提斯特拉图（*Myttistratum*）。
 12. 然后他们通过围城战打下了前不久脱离他们阵营的卡玛琳娜（*Camarina*），他们也得到了埃那（*Enna*）和其他一些迦太基人的小城；
 13. 上述战事结束后，他们着手围攻利帕拉。
+![](https://github.com/AndrewImalion/Polybius_Histories/blob/master/img/Sicilia2.png)
